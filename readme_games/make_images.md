@@ -1,3 +1,4 @@
+# 创建Docker镜像
 **1. 创建存放Dockerfile的目录**
 例如mkdir ubuntu_game
 **2. cd到那个目录里面**
